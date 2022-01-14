@@ -1,0 +1,9 @@
+/*NAVBAR*/
+
+.shades-nav {
+    width: 1110px;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    flex-direction: column-reverse;
+}
