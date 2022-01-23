@@ -36,6 +36,10 @@ body {
     background-color: #E3EEF8;
 }
 
+.none {
+    display: none;
+}
+
 .karla-normal {
     font-family: Karla;
     font-style: normal;
