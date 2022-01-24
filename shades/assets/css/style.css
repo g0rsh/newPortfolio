@@ -332,7 +332,11 @@
 }
 
 .fourthSection-wrapper {
+    width: 100%;
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 130px;
 }
 
 .fourthSection-title {
@@ -419,7 +423,8 @@
 }
 
 .secondContainer-right {
-    height: 640px;
+    padding-top: 100px;
+    height: 740px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -427,4 +432,23 @@
 
 #leo {
     padding-right: 100px;
+}
+
+#harvey {
+    padding-right: 70px;
+}
+
+#cam {
+    padding-right: 50px;
+}
+
+.clients-div {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.clientsGroup {
+    display: flex;
+    justify-content: space-between;
 }

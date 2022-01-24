@@ -32,4 +32,22 @@
     .third-img {
         padding-top: 50px;
     }
+    /*Fourth*/
+    .fourthSection-wrapper {
+        flex-direction: column;
+    }
+    .fourthSection-secondContainer {
+        padding-top: 100px;
+        flex-direction: column;
+    }
+    .clients-div {
+        display: flex;
+        height: 500px;
+        flex-direction: column;
+        width: fit-content;
+        justify-content: space-between;
+        align-items: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
