@@ -1,0 +1,11 @@
+@media (max-width: 990px) {
+    /*Header*/
+    #ul {
+        padding-left: 0px;
+    }
+    .header-btns {
+        flex-direction: column;
+        height: 160px;
+        justify-content: space-between;
+    }
+}
